@@ -43,6 +43,30 @@
       }
     },
     {
+      "name": "Storm Titan",
+      "description": "A towering force of nature, commanding the power of thunder and lightning.",
+      "hp": 150,
+      "dp": 85,
+      "rarity": "S",
+      "dominantElement": "Thunder",
+      "cost": "80",
+      "lore": "Forged in the heart of a tempest, the Storm Titan is a being of raw power, said to have been created by the gods to control the fury of the skies. With eyes that gleam like bolts of lightning, it is said to awaken when the world faces the threat of destruction from unnatural storms. The Titan is a living storm, with thunderous roars that shake the heavens.",
+      "habitat": "Thunderstruck Peaks, Stormfront Cliffs",
+      "attackType": "Thunder Strike, Tempest Slam",
+      "personality": "Fierce, Unpredictable, Majestic",
+      "alliances": "Skyborn Clan, Tempest King",
+      "battleTactics": "Uses devastating lightning strikes and its immense size to overwhelm foes.",
+      "lootDrops": "Titan Shard, Thunder Crystal, Storm’s Eye Gem",
+      "hiddenAbilities": "Eye of the Storm - Gains a 20% speed boost and 10% damage increase during thunderstorms or in areas with high winds.",
+      "images": {
+      "creature": "/assets/mythicalCreaturesImages/stormTitan.webp",
+      "hp": "/assets/icons/hpIcon.webp",
+      "dp": "/assets/icons/dpIcon.webp",
+      "rarity": "/assets/icons/epicIcon.webp",
+      "element": "/assets/icons/electricElementIcon.webp"
+      }
+    },      
+    {
       "name": "Ice Phoenix",
       "description": "A majestic bird that controls ice and frost.",
       "hp": 90,
